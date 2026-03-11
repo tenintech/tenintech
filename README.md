@@ -3,6 +3,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
+  - [Prepare AD Infrastructure in Azure](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Depolying Active Directory]
+
+
   - [Group Policy Management- Create Wallpaper Policy](https://github.com/joshmadakorcc/osticket-prereqs)
 
 - <b> Help Desk Ticketing Systems</b>
