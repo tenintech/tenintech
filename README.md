@@ -4,7 +4,8 @@
 
 - <b>Active Directory</b>
   - [Prepare AD Infrastructure in Azure](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Depolying Active Directory]
+  - [Deploying Active Directory](https://github.com/joshmadakorcc/osticket-prereqs)
+
 
 
   - [Group Policy Management- Create Wallpaper Policy](https://github.com/joshmadakorcc/osticket-prereqs)
