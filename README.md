@@ -1,6 +1,6 @@
-<h1>Hi, I'm Teneka!</a>👩🏾‍💻</h1>
+<h1>Hi, I'm Teneka an IT Professional!</a>👩🏾‍💻</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IT Projects and Practice Labs:</h2>
 
 - <b>Active Directory</b>
   - [Prepare AD Infrastructure in Azure](https://github.com/joshmadakorcc/osticket-prereqs)
