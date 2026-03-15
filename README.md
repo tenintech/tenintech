@@ -1,14 +1,14 @@
 <h1>Hi, I'm Teneka an IT Professional!</a>👩🏾‍💻</h1>
-
+<a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 <h2>👨‍💻 IT Projects and Practice Labs:</h2>
 
 - <b>Active Directory</b>
-  - [Prepare AD Infrastructure in Azure](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Deploying Active Directory](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Prepare AD Infrastructure in Azure](https://github.com/tenintech/osticket-prereqs)
+  - [Deploying Active Directory](https://github.com/tenintech/osticket-prereqs)
 
 
 
-  - [Group Policy Management- Create Wallpaper Policy](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Group Policy Management- Create Wallpaper Policy](https://github.com/tenintech/osticket-prereqs)
 
 - <b> Help Desk Ticketing Systems</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
