@@ -3,7 +3,7 @@
 <h2> 💻IT Projects and Practice Labs:</h2>
 
 - <b>Active Directory</b>
-  - [Prepare AD Infrastructure in Azure](https://github.com/tenintech/osticket-prereqs)
+  - [Prepare AD Infrastructure in Azure](https://github.com/tenintech/ad-infrastructure)
   - [Deploying Active Directory](https://github.com/tenintech/osticket-prereqs)
 
 
