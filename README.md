@@ -4,7 +4,7 @@
 
 - <b>Active Directory</b>
   - [Prepare AD Infrastructure in Azure](https://github.com/tenintech/ad-infrastructure)
-  - [Deploying Active Directory](https://github.com/tenintech/osticket-prereqs)
+  - [Deploying Active Directory](https://github.com/tenintech/deploying-ad)
 
 
 
