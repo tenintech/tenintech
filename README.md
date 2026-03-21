@@ -22,7 +22,8 @@
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
-- <b>Laptop Hardware Maintenance Lab</b>
+- <b>Laptop Hardware Maintenance Project</b>
+  [Acer Laptop Hardware Troubleshooting & Maintenance]([](https://github.com/tenintech/ad-infrastructure))
 
 <h2>🤳Connect with me:</h2>
 
