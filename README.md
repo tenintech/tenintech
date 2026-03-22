@@ -11,18 +11,18 @@
   - [Group Policy Management- Create Wallpaper Policy](https://github.com/tenintech/osticket-prereqs)
 
 - <b> Help Desk Ticketing Systems</b>
-  - [Deploy and Configure Internal IT Help Desk System Using osTicket(Prerequisites and Installation)](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Deploy and Configure osTicket Help Desk System(Prerequisites and Installation)](https://github.com/joshmadakorcc/osticket-prereqs)
 
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Zendesk Demo: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
   
-- <b>Microsoft Azure</b>
+- <b>🔷Microsoft Azure🔷</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
-- <b>Laptop Hardware Maintenance Project</b>
+- <b>Laptop Hardware Maintenance Project🪛</b>
    - [Acer Laptop Hardware Troubleshooting & Maintenance](https://github.com/tenintech/laptopmaintenance)
 
 <h2>🤳Connect with me:</h2>
