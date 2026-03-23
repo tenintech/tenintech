@@ -16,7 +16,7 @@ Skills demonstrated include:
 
 ## 🗃️Active Directory Labs
 
-### Active Directory Environment Setup
+### 1. Active Directory Environment Setup
 Build a corporate Active Directory domain environment.
 
 Skills demonstrated:
@@ -29,7 +29,7 @@ Project Link:
 
 ---
 
-### Active Directory User Management
+### 2. Active Directory User Management
 Simulated common help desk account management tasks.
 
 Skills demonstrated:
@@ -43,7 +43,7 @@ Project Link:
 
 ---
 
-### Group Policy & Shared Resources
+### 3. Group Policy & Shared Resources
 Configured company policies and shared drives.
 
 Skills demonstrated:
