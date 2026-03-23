@@ -1,5 +1,5 @@
-# IT Help Desk Portfolio
 
+<h1><a href="https://linkedin.com/in/teneka-johnson-8b913386/)"> I'm Teneka!</a>👩🏾‍💻 Check out my IT Support Portfolio!</h1>
 This portfolio demonstrates hands-on labs and projects focused on skills commonly used in IT Help Desk and Junior System Administrator roles.
 
 Skills demonstrated include:
@@ -156,4 +156,4 @@ Project Link:
 ---
 
 # About This Portfolio
-These labs were created to simulate real-world IT support tasks and demonstrate hands-on experience working in enterprise IT environments.
+These labs were created to simulate real-world IT support tasks and demonstrate my hands-on experience working in enterprise IT environments.
