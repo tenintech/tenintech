@@ -1,14 +1,17 @@
 
 <h1><a href="https://linkedin.com/in/teneka-johnson-8b913386/)"> I'm Teneka!</a>👩🏾‍💻 Check out my IT Support Portfolio!</h1>
-This portfolio demonstrates hands-on labs and projects focused on skills commonly used in IT Help Desk and Junior System Administrator roles.
+This portfolio demonstrates my real life experience. I've included hands-on labs and projects that focus on skills commonly used in IT Help Desk and Junior System Administrator roles.
 
+---
+ <b>Skills demonstrated include:</b>
 
-Skills demonstrated include:
-- Active Directory administration
-- IT ticketing workflows
-- Troubleshooting user issues
-- Cloud infrastructure in Microsoft Azure
-- Identity management with Microsoft Entra ID
+ - Active Directory administration
+ - IT ticketing workflows
+ - Troubleshooting user issues
+ - Cloud infrastructure in Microsoft Azure
+ - Identity management with Microsoft Entra ID
+ - Use of Powershell commands
+ - Network analyzing with Wireshark 
 
 ---
 
@@ -154,8 +157,7 @@ Skills demonstrated:
 - Driver troubleshooting
 - Preventative maintenance
 
-Project Link:  
-[Laptop Hardware Maintenance Lab](https://github.com/tenintech/laptopmaintenance)
+Project Link: [Laptop Hardware Maintenance Lab](https://github.com/tenintech/laptopmaintenance)
 
 # Tools & Technologies Used
 
