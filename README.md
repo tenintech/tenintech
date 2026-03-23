@@ -39,7 +39,7 @@ Skills demonstrated:
 - Security group management
 
 Project Link:
-[User Management Lab](link-to-repo)
+[User Management Lab](https://github.com/tenintech/ad-user-management-lab)
 
 ---
 
@@ -53,13 +53,13 @@ Skills demonstrated:
 - Policy troubleshooting
 
 Project Link:
-[Group Policy Lab](link-to-repo)
+[Group Policy Lab](https://github.com/tenintech/group-policy-lab)
 
 ---
 
 ## 🎫Ticketing System Labs
 
-### Ticketing System Installation
+### 1. Ticketing System Installation
 Installed and configured a help desk platform.
 
 Skills demonstrated:
@@ -68,11 +68,11 @@ Skills demonstrated:
 - SLA setup
 
 Project Link:
-[Ticketing System Installation](link-to-repo)
+[Ticketing System Installation](https://github.com/tenintech/ticketing-system-install-lab)
 
 ---
 
-### 🖥️Help Desk Ticket Simulation 
+### 2. Help Desk Ticket Simulation 
 Simulated real-world IT support scenarios.
 
 Example issues resolved:
@@ -82,11 +82,11 @@ Example issues resolved:
 - VPN issue
 
 Project Link:
-[Help Desk Ticket Lab](link-to-repo)
+[Help Desk Ticket Lab](https://github.com/tenintech/help-desk-ticket-simulation)
 
 ---
 
-### Incident & Escalation Management
+### 3. Incident & Escalation Management
 Simulated major IT incident handling.
 
 Skills demonstrated:
@@ -96,13 +96,13 @@ Skills demonstrated:
 - Documentation
 
 Project Link:
-[Incident Management Lab](link-to-repo)
+[Incident Management Lab](https://github.com/tenintech/incident-escalation-lab)
 
 ---
 
 ## ☁️Cloud Computing Labs 
 
-### Azure Environment Setup
+### 1. Azure Environment Setup
 Built a cloud lab environment in Microsoft Azure.
 
 Skills demonstrated:
@@ -111,11 +111,11 @@ Skills demonstrated:
 - Virtual machine deployment
 
 Project Link:
-[Azure Environment Lab](link-to-repo)
+[Azure Environment Lab](https://github.com/tenintech/azure-environment-setup)
 
 ---
 
-### 👤Microsoft Entra ID Management
+### 2. Microsoft Entra ID Management
 Configured cloud identity management.
 
 Skills demonstrated:
@@ -125,11 +125,11 @@ Skills demonstrated:
 - Access control
 
 Project Link:
-[Entra ID Lab](link-to-repo)
+[Entra ID Lab](https://github.com/tenintech/entra-id-management-lab)
 
 ---
 
-### Azure Troubleshooting Lab
+### 3. Azure Troubleshooting Lab
 Simulated cloud infrastructure troubleshooting.
 
 Skills demonstrated:
@@ -138,13 +138,13 @@ Skills demonstrated:
 - Firewall troubleshooting
 
 Project Link:
-[Azure Troubleshooting Lab](link-to-repo)
+[Azure Troubleshooting Lab](https://github.com/tenintech/azure-troubleshooting-lab)
 
 ---
 
 ## 🪛Hardware & Troubleshooting Labs
 
-### Laptop Hardware Maintenance Lab
+### 1. Laptop Hardware Maintenance Lab
 Performed hardware maintenance and troubleshooting on a laptop system to improve cooling performance, repair charging stability, and resolve a keyboard driver issue.
 
 Skills demonstrated:
@@ -155,7 +155,7 @@ Skills demonstrated:
 - Preventative maintenance
 
 Project Link:  
-[Laptop Hardware Maintenance Lab](link-to-repo)
+[Laptop Hardware Maintenance Lab](https://github.com/tenintech/laptopmaintenance)
 
 # Tools & Technologies Used
 
