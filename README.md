@@ -11,7 +11,8 @@ This portfolio demonstrates my real life experience. I've included hands-on labs
  - Cloud infrastructure in Microsoft Azure
  - Identity management with Microsoft Entra ID
  - Use of Powershell commands
- - Network analyzing with Wireshark 
+ - Network analyzing with Wireshark
+ - Remote Desktop Protocol (RDP)
 
 ---
 
@@ -178,7 +179,7 @@ Project Link: [Laptop Hardware Maintenance Lab](https://github.com/tenintech/lap
 ---
 
 # About This Portfolio
-These labs were created to simulate real-world IT support tasks and demonstrate my hands-on experience working in enterprise IT environments.
+These labs were created to simulate real-world IT support tasks and demonstrate concrete evidence of my technical skills and hands-on experience working in enterprise IT environments.
 
 
 <h2>🤳Connect with me:</h2>
