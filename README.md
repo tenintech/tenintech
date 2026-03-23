@@ -179,3 +179,6 @@ Project Link: [Laptop Hardware Maintenance Lab](https://github.com/tenintech/lap
 
 # About This Portfolio
 These labs were created to simulate real-world IT support tasks and demonstrate my hands-on experience working in enterprise IT environments.
+
+
+<h2>🤳Connect with me:</h2>
