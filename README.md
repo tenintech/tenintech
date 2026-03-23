@@ -2,6 +2,7 @@
 <h1><a href="https://linkedin.com/in/teneka-johnson-8b913386/)"> I'm Teneka!</a>👩🏾‍💻 Check out my IT Support Portfolio!</h1>
 This portfolio demonstrates hands-on labs and projects focused on skills commonly used in IT Help Desk and Junior System Administrator roles.
 
+
 Skills demonstrated include:
 - Active Directory administration
 - IT ticketing workflows
