@@ -25,7 +25,7 @@ Skills demonstrated:
 - Client domain join
 
 Project Link:
-[Active Directory Setup Lab](link-to-repo)
+[Active Directory Setup Lab](https://github.com/tenintech/active-directory-setup-lab)
 
 ---
 
