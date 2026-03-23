@@ -14,7 +14,7 @@ Skills demonstrated include:
 
 # Projects
 
-## Active Directory Labs
+## 🗃️Active Directory Labs
 
 ### Active Directory Environment Setup
 Build a corporate Active Directory domain environment.
@@ -57,7 +57,7 @@ Project Link:
 
 ---
 
-## Ticketing System Labs
+## 🎫Ticketing System Labs
 
 ### Ticketing System Installation
 Installed and configured a help desk platform.
@@ -72,7 +72,7 @@ Project Link:
 
 ---
 
-### Help Desk Ticket Simulation
+### 🖥️Help Desk Ticket Simulation 
 Simulated real-world IT support scenarios.
 
 Example issues resolved:
@@ -100,7 +100,7 @@ Project Link:
 
 ---
 
-## Cloud Computing Labs
+## ☁️Cloud Computing Labs 
 
 ### Azure Environment Setup
 Built a cloud lab environment in Microsoft Azure.
@@ -115,7 +115,7 @@ Project Link:
 
 ---
 
-### Microsoft Entra ID Management
+### 👤Microsoft Entra ID Management
 Configured cloud identity management.
 
 Skills demonstrated:
@@ -142,7 +142,7 @@ Project Link:
 
 ---
 
-## Hardware & Troubleshooting Labs
+## 🪛Hardware & Troubleshooting Labs
 
 ### Laptop Hardware Maintenance Lab
 Performed hardware maintenance and troubleshooting on a laptop system to improve cooling performance, repair charging stability, and resolve a keyboard driver issue.
