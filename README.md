@@ -142,6 +142,21 @@ Project Link:
 
 ---
 
+## Hardware & Troubleshooting Labs
+
+### Laptop Hardware Maintenance Lab
+Performed hardware maintenance and troubleshooting on a laptop system to improve cooling performance, repair charging stability, and resolve a keyboard driver issue.
+
+Skills demonstrated:
+- Laptop disassembly and reassembly
+- Thermal paste replacement
+- Hardware diagnostics
+- Driver troubleshooting
+- Preventative maintenance
+
+Project Link:  
+[Laptop Hardware Maintenance Lab](link-to-repo)
+
 # Tools & Technologies Used
 
 - Active Directory
@@ -153,6 +168,10 @@ Project Link:
 - osTicket
 - Group Policy
 - Virtual Machines
+- Laptop Hardware Diagnostics Tools 
+
+---
+
 
 ---
 
