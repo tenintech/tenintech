@@ -67,7 +67,7 @@ Project Link:
 Installed and configured a help desk platform.
 
 Skills demonstrated:
-- ITSM platform deployment
+- osTicket platform deployment
 - Department configuration
 - SLA setup
 
