@@ -78,7 +78,7 @@ Project Link:
 ---
 
 ### 2. Help Desk Ticket Simulation 
-Simulated real-world IT support scenarios.
+Simulated real-world IT support scenarios. 10 Common IT Support Tickets and How I Resolved Them
 
 Example issues resolved:
 - Password reset
