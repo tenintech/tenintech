@@ -37,6 +37,7 @@ Project Link:
 Install AD DS and create an organization. 
 
 Skills demonstrated:
+- Domain Controller Configuration
 - User creation
 - Password resets
 - Account unlock
