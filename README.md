@@ -33,7 +33,7 @@ Project Link:
 
 ---
 
-### 2. Active Directory Deployment User Management
+### 2. Active Directory Deployment & User Management
 Install AD DS and create an organization. 
 
 Skills demonstrated:
