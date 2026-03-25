@@ -26,7 +26,8 @@ Built a corporate-style Active Directory domain environment from scratch.
 Skills demonstrated:
 - Domain controller deployment
 - Domain configuration
-- Client domain join
+- Client computer domain join
+- Basic network and DNS configuration
 
 Project Link:
 [Active Directory Setup Lab](https://github.com/tenintech/active-directory-setup-lab)
@@ -38,9 +39,9 @@ Installed Active Directory Domain Services (AD DS) and created a simulated compa
 
 Skills demonstrated:
 - Domain Controller Configuration
-- User creation
-- Password resets
-- Account unlock
+- Organizational Unit (OU) creation
+- User account creation and management
+- Password resets and account unlocks
 - Security group management
 
 
@@ -49,14 +50,15 @@ Project Link:
 
 ---
 
-### 3. Group Policy & Shared Resources
+### 3. Group Policy & Network Drive Mapping
 Configured company policies and shared drives.
 
 Skills demonstrated:
-- Group Policy deployment
-- Network drive mapping
-- Permission management
-- Policy troubleshooting
+- Group Policy Object (GPO) creation
+- Network drive deployment
+- File share configuration
+- NTFS and share permissions
+- Policy testing and troubleshooting
 
 Project Link:
 [Group Policy Lab](https://github.com/tenintech/group-policy-lab)
