@@ -21,7 +21,7 @@ This portfolio demonstrates my real life experience. I've included hands-on labs
 ## 🗃️Active Directory Labs
 
 ### 1. Active Directory Environment Setup
-Build a corporate Active Directory domain environment.
+Built a corporate-style Active Directory domain environment from scratch.
 
 Skills demonstrated:
 - Domain controller deployment
@@ -34,7 +34,7 @@ Project Link:
 ---
 
 ### 2. Active Directory Deployment & User Management
-Install AD DS and create an organization. 
+Installed Active Directory Domain Services (AD DS) and created a simulated company structure.
 
 Skills demonstrated:
 - Domain Controller Configuration
@@ -42,7 +42,7 @@ Skills demonstrated:
 - Password resets
 - Account unlock
 - Security group management
-- Group Policy deployment
+
 
 Project Link:
 [User Management Lab](https://github.com/tenintech/ad-user-management-lab)
