@@ -42,6 +42,7 @@ Skills demonstrated:
 - Password resets
 - Account unlock
 - Security group management
+- Group Policy deployment
 
 Project Link:
 [User Management Lab](https://github.com/tenintech/ad-user-management-lab)
