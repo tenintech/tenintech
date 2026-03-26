@@ -41,8 +41,9 @@ Skills demonstrated:
 - Domain Controller Configuration
 - Organizational Unit (OU) creation
 - User account creation and management
-- Password resets and account unlocks
-- Security group management
+- Domain join & client integration
+- PowerShell user automation
+
 
 
 Project Link:
