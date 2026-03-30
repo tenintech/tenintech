@@ -3,7 +3,7 @@
 This portfolio demonstrates my real life experience. I've included hands-on labs and projects that focus on skills commonly used in IT Help Desk and Junior System Administrator roles.
 
 ---
- <b>Skills demonstrated include:</b>
+ <b>Summary of skills demonstrated:</b>
 
  - Active Directory administration
  - IT ticketing workflows
