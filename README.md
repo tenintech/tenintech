@@ -134,6 +134,9 @@ Skills demonstrated:
 - Identify traffic by port and protocol
 - Troubleshoot connectivity issues
 
+Project Link:
+[User Management Lab](https://github.com/tenintech/ad-user-management-lab)
+
 ---
 
 ### 3. Microsoft Entra ID Management
