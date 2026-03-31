@@ -125,8 +125,18 @@ Project Link:
 [Azure Environment Lab](https://github.com/tenintech/azure-environment-setup)
 
 ---
+### 2. Network Traffic Analysis with Wireshark 
+Analyze network traffic between Virtual Machines.
 
-### 2. Microsoft Entra ID Management
+Skills demonstrated:
+- Capture live network traffic
+- Analyze communication between systems
+- Identify traffic by port and protocol
+- Troubleshoot connectivity issues
+
+---
+
+### 3. Microsoft Entra ID Management
 Configured cloud identity management.
 
 Skills demonstrated:
@@ -140,7 +150,7 @@ Project Link:
 
 ---
 
-### 3. Azure Troubleshooting Lab
+### 4. Azure Troubleshooting Lab
 Simulated cloud infrastructure troubleshooting.
 
 Skills demonstrated:
