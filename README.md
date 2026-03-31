@@ -134,7 +134,7 @@ Skills demonstrated:
 - Identify traffic by port and protocol
 - Troubleshoot connectivity issues
 
-Project Link:
+Project Link: [Wireshark Traffic Analysis](https://github.com/tenintech/wiresharktraffic)
 
 
 ---
