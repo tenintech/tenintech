@@ -82,9 +82,9 @@ Project Link:
 ---
 
 ### 2. Help Desk Ticket Simulation 
-5 Common IT Support Tickets and How I Resolved Them in Zendesk
+5 Common IT Support Tickets and How I Resolved Them in Zendesk.
 
-Simulated real-world IT support scenarios
+Simulated real-world IT support scenarios.
 
 Example issues resolved:
 - Password reset
