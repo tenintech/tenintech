@@ -66,7 +66,7 @@ Project Link:
 
 ---
 
-## 🎫Ticketing System Labs
+## 🎫Ticketing System Labs- Work In Progress
 
 ### 1. Ticketing System Installation
 Installed and configured a help desk platform.
@@ -81,7 +81,7 @@ Project Link:
 
 ---
 
-### 2. Help Desk Ticket Simulation 
+### 2. Help Desk Ticket Simulation - Work in Progress
 5 Common IT Support Tickets and How I Resolved Them in Zendesk.
 
 Simulated real-world IT support scenarios.
@@ -97,7 +97,7 @@ Project Link:
 
 ---
 
-### 3. Incident & Escalation Management
+### 3. Incident & Escalation Management- Work in Progress
 Simulated major IT incident handling.
 
 Skills demonstrated:
@@ -125,7 +125,7 @@ Project Link:
 [Azure Environment Lab](https://github.com/tenintech/azure-environment-setup)
 
 ---
-### 2. Network Traffic Analysis with Wireshark 
+### 2. Network Traffic Analysis with Wireshark- Work in Progress
 Analyze network traffic between Virtual Machines.
 
 Skills demonstrated:
@@ -139,7 +139,7 @@ Project Link: [Wireshark Traffic Analysis](https://github.com/tenintech/wireshar
 
 ---
 
-### 3. Microsoft Entra ID Management
+### 3. Microsoft Entra ID Management- Work in Progress 
 Configured cloud identity management.
 
 Skills demonstrated:
@@ -153,7 +153,7 @@ Project Link:
 
 ---
 
-### 4. Azure Troubleshooting Lab
+### 4. Azure Troubleshooting Lab- Work in Progress
 Simulated cloud infrastructure troubleshooting.
 
 Skills demonstrated:
@@ -166,7 +166,7 @@ Project Link:
 
 ---
 
-## 🪛Hardware & Troubleshooting Labs
+## 🪛Hardware & Troubleshooting Labs- (Currently Building)
 
 ### 1. Laptop Hardware Maintenance Lab
 Performed hardware maintenance and troubleshooting on a laptop system to improve cooling performance, repair charging stability, and resolve a keyboard driver issue.
