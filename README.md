@@ -66,7 +66,7 @@ Project Link:
 
 ---
 
-## 🎫Ticketing System Labs- Work In Progress
+## 🎫Ticketing System Labs
 
 ### 1. Ticketing System Installation
 Installed and configured a help desk platform.
@@ -166,7 +166,7 @@ Project Link:
 
 ---
 
-## 🪛Hardware & Troubleshooting Labs- (Currently Building)
+## 🪛Hardware & Troubleshooting Labs- Work in Progress 
 
 ### 1. Laptop Hardware Maintenance Lab
 Performed hardware maintenance and troubleshooting on a laptop system to improve cooling performance, repair charging stability, and resolve a keyboard driver issue.
