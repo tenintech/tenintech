@@ -125,7 +125,7 @@ Project Link:
 [Azure Environment Lab](https://github.com/tenintech/azure-environment-setup)
 
 ---
-### 2. Network Traffic Analysis with Wireshark- Work in Progress
+### 2. Network Traffic Analysis with Wireshark
 Analyze network traffic between Virtual Machines.
 
 Skills demonstrated:
