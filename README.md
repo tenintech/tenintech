@@ -139,7 +139,7 @@ Project Link: [Wireshark Traffic Analysis](https://github.com/tenintech/wireshar
 
 ---
 
-### 3. Microsoft Entra ID Management- (Work in Progress) 
+### 3. Microsoft Entra ID Management
 Configured cloud identity management.
 
 Skills demonstrated:
