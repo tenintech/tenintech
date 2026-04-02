@@ -81,7 +81,7 @@ Project Link:
 
 ---
 
-### 2. Help Desk Ticket Simulation - Work in Progress
+### 2. Help Desk Ticket Simulation - (Work in Progress)
 5 Common IT Support Tickets and How I Resolved Them in Zendesk.
 
 Simulated real-world IT support scenarios.
@@ -97,7 +97,7 @@ Project Link:
 
 ---
 
-### 3. Incident & Escalation Management- Work in Progress
+### 3. Incident & Escalation Management- (Work in Progress)
 Simulated major IT incident handling.
 
 Skills demonstrated:
@@ -139,7 +139,7 @@ Project Link: [Wireshark Traffic Analysis](https://github.com/tenintech/wireshar
 
 ---
 
-### 3. Microsoft Entra ID Management- Work in Progress 
+### 3. Microsoft Entra ID Management- (Work in Progress) 
 Configured cloud identity management.
 
 Skills demonstrated:
@@ -153,7 +153,7 @@ Project Link:
 
 ---
 
-### 4. Azure Troubleshooting Lab- Work in Progress
+### 4. Azure Troubleshooting Lab- (Work in Progress)
 Simulated cloud infrastructure troubleshooting.
 
 Skills demonstrated:
@@ -166,7 +166,7 @@ Project Link:
 
 ---
 
-## 🪛Hardware & Troubleshooting Labs- Work in Progress 
+## 🪛Hardware & Troubleshooting Labs- (Work in Progress) 
 
 ### 1. Laptop Hardware Maintenance Lab
 Performed hardware maintenance and troubleshooting on a laptop system to improve cooling performance, repair charging stability, and resolve a keyboard driver issue.
